@@ -1,4 +1,4 @@
-# vagrant-ansible-virtualbox
+# Vagrant Ansible Virtualbox
 
 This repository contains a example virtual machines running various applications. The VMs are created via Vagrant and provisioned via Ansible.
 
